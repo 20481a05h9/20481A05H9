@@ -5,7 +5,7 @@ function Numbers() {
   return (
     <div>
       <h2>Numbers</h2>
-      { <p>[ 1, 2, 3, 5, 8, 13 ]</p>}
+      {/*numbers in the urls*/}
     </div>
      
   );
